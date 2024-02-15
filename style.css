@@ -1,0 +1,105 @@
+.Namn{
+    font-size: x-large;
+    margin-top: 2vw;
+}
+.navbar{  
+    display: flex;
+    justify-content: center;
+
+}
+
+div ul li{
+    display: inline-block;
+    margin-right: 100px;
+}   
+
+main{
+    display: flex;
+    justify-content: end;
+    margin-right: 10vw;
+}
+
+.storlada{
+ display:flex;
+}
+
+.lada23{
+    background-color: #E7DECD;
+}
+
+.info{
+   display: flex;
+   flex-direction: column;
+}
+
+.information{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Namn{
+    display: flex;
+    
+}
+
+.lejon{
+    height: 133px;
+    width: 133px;
+    
+}
+
+.Språk{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0%;
+}
+
+.rubrik{
+    
+}
+.Tre{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 2fr 1fr 3fr;
+
+}
+.Skola{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Låda1{
+    background-color:#E7DECD ;
+    margin-left: 0% ;
+}
+.bilder{
+    display: flex;
+    height: 5vw;
+    width: 5vw;
+
+}
+img{
+    height:18vw;
+    width:18vw;
+}
+
+.MittNamn{
+    display: grid;
+    gap: 200px;
+    grid-template-columns: 2fr 2fr 0fr;
+    font-size: xx-large;
+}
+.Titel{
+    font-size: x-large;
+}
+.OmMig{
+    background-color: #E7DECD;
+}
+.Rubrik{
+    display: flex;
+    font-size: xx-large;
+    justify-content: center;
+}
